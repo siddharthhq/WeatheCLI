@@ -1,6 +1,6 @@
 # WeatherCLI
 
-#### Video Demo: `<URL HERE>`
+
 
 #### Description:
 
